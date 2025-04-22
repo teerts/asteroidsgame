@@ -3,7 +3,6 @@ from circleshape import CircleShape
 from constants import PLAYER_RADIUS, PLAYER_TURN_SPEED, PLAYER_SPEED
 
 class Player(CircleShape):
-
     def __init__(self, position_x, position_y):
         self.position_x = position_x
         self.position_y = position_y
