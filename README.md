@@ -11,9 +11,9 @@ A basic asteroids game where:
 ## Usage
 ```bash
 python3 main.py [PathToFile]
+``` 
 
 ## Possible Future Improvements
-
 - Add a **scoring system**
 - Implement **multiple lives** and **respawning**
 - Add an **explosion effect** for destroyed asteroids
